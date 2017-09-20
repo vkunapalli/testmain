@@ -1,0 +1,2 @@
+[submodule "testsub"]
+	url = https://github.com/vkunapalli/testmain/testsub
